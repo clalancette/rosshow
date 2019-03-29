@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>librosshow</name>
+  <version>2.0.0</version>
+  <description>librosshow</description>
+  <maintainer email="clalancette@openrobotics.org">Chris Lalancette</maintainer>
+  <license>MIT</license>
+
+  <exec_depend>python-imaging</exec_depend>
+  <exec_depend>python-numpy</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
